@@ -20,4 +20,3 @@
 
 * アップロードした動画
   * https://instagram.com/p/BdKn5VMDcwb/
-　インスタ映えを意識しました(?)
