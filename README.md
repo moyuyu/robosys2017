@@ -16,8 +16,12 @@
 
 ## 私がやったこと
 
-授業についていくのが必至過ぎたので、授業の内容を理解しようと頑張りながらやりました。  
-とりあえず光りました。
+授業についていくのが必至過ぎたので、授業の内容(https://github.com/ryuichiueda/robosys2017/blob/master/07.md)をやりました。　　
+デバイスドライバを作り、LEDを光らせました。光りました。　　
 
 * アップロードした動画
-  * https://instagram.com/p/BdKn5VMDcwb/
+  * https://instagram.com/p/BdKn5VMDcwb/  
+
+## 動作環境　　
+* raspbian (ver.9.1)  
+* Tera Term (ver 4.86)　　
