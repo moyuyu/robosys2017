@@ -19,4 +19,4 @@
 授業についていくのが必至過ぎたので、授業の内容を理解しようと頑張りながらやりました。
 
 * アップロードした動画
-  * https://instagram.com/p/BdKn5VMDcwb/
+  * https://instagram.com/p/BdKn5VMDcwb/
