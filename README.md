@@ -18,9 +18,9 @@
 
 授業についていくのが必至過ぎたので、授業の内容(https://github.com/ryuichiueda/robosys2017/blob/master/07.md )をやりました。  
 デバイスドライバを作り、LEDを光らせました。光りました。　
-* 対象ファイル (中間ファイルはpushしてません) 
-  * myled.c  
-  * Mekefile    
+- 対象ファイル (中間ファイルはpushしてません)
+	- myled.c  
+	- Mekefile    
   
 * 先に課題1
   * GitとかGitHubとか普段から使っている人は課題をやりましょう  
