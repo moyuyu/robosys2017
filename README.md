@@ -22,6 +22,8 @@
   * myled.c  
   * Mekefile    
   
+* 先に課題1
+  * GitとかGitHubとか普段から使っている人は課題をやりましょう  
 * アップロードした動画
   * https://instagram.com/p/BdKn5VMDcwb/  
 
