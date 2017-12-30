@@ -21,8 +21,6 @@
 - 対象ファイル (中間ファイルはpushしてません)
 	- myled.c  
 	- Mekefile    
-* 自分で作ったプログラムの管理をどうするか？
-  * 別にファイルやディレクトリのコピーでも良い
 - アップロードした動画
   - https://instagram.com/p/BdKn5VMDcwb/  
 
